@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d872edcfaba7f3442a0ddf98b5fd2647, type: 3}
+  m_Name: CharaData
+  m_EditorClassIdentifier: 
+  charaList:
+  - id: Warrior_Prefab
+    charaType: 0
+    qteType: 0
+    maxHP: 100
+    currentHP: 100
+    maxMP: 0
+    currentMP: 0
+    maxSTA: 100
+    currentSTA: 100
+    atk: 35
+    atkRange: 2
+    attackPattern: {fileID: 11400000, guid: cc26ad35caf1bf54eb96104754b3fccc, type: 2}
+    def: 18
+    ats: 0
+    adf: 10
+    mov: 4
+  - id: FrostMage_Prefab
+    charaType: 1
+    qteType: 1
+    maxHP: 100
+    currentHP: 100
+    maxMP: 100
+    currentMP: 100
+    maxSTA: 0
+    currentSTA: 0
+    atk: 0
+    atkRange: 3
+    attackPattern: {fileID: 11400000, guid: f97f9f5a4e0a3a1449ddac0e4fb2cdc9, type: 2}
+    def: 15
+    ats: 35
+    adf: 20
+    mov: 4
+  - id: Archer_Prefab
+    charaType: 0
+    qteType: 0
+    maxHP: 100
+    currentHP: 100
+    maxMP: 0
+    currentMP: 0
+    maxSTA: 100
+    currentSTA: 100
+    atk: 32
+    atkRange: 5
+    attackPattern: {fileID: 0}
+    def: 12
+    ats: 0
+    adf: 15
+    mov: 5
+  - id: Assassin_Prefab
+    charaType: 0
+    qteType: 2
+    maxHP: 80
+    currentHP: 80
+    maxMP: 0
+    currentMP: 0
+    maxSTA: 100
+    currentSTA: 100
+    atk: 40
+    atkRange: 1
+    attackPattern: {fileID: 0}
+    def: 10
+    ats: 0
+    adf: 8
+    mov: 6
+  - id: FireMage_Prefab
+    charaType: 1
+    qteType: 1
+    maxHP: 90
+    currentHP: 90
+    maxMP: 100
+    currentMP: 100
+    maxSTA: 0
+    currentSTA: 0
+    atk: 0
+    atkRange: 4
+    attackPattern: {fileID: 11400000, guid: e46858629f4e0c745896cac668145b20, type: 2}
+    def: 5
+    ats: 45
+    adf: 15
+    mov: 4

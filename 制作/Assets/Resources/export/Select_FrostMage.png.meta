@@ -1,0 +1,747 @@
+fileFormatVersion: 2
+guid: 465f6e019548bbd4099b9631e59a9b85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 532888041475146098
+    second: SpriteExport_15-29_0
+  - first:
+      213: -3728582642435937946
+    second: SpriteExport_15-29_1
+  - first:
+      213: -7975874309007393015
+    second: SpriteExport_15-29_2
+  - first:
+      213: 1624891965529806634
+    second: SpriteExport_15-29_3
+  - first:
+      213: 6278428010469308038
+    second: SpriteExport_15-29_4
+  - first:
+      213: -6474254627297683645
+    second: SpriteExport_15-29_5
+  - first:
+      213: 7014584992935250634
+    second: SpriteExport_15-29_6
+  - first:
+      213: 8981208929114158272
+    second: SpriteExport_15-29_7
+  - first:
+      213: 5716792274959059024
+    second: SpriteExport_15-29_8
+  - first:
+      213: 297751844943212437
+    second: SpriteExport_15-29_9
+  - first:
+      213: -6336617401804662101
+    second: SpriteExport_15-29_10
+  - first:
+      213: 5715916222552789160
+    second: SpriteExport_15-29_11
+  - first:
+      213: 5272871223825362242
+    second: SpriteExport_15-29_12
+  - first:
+      213: -9200041710040496970
+    second: SpriteExport_15-29_13
+  - first:
+      213: 4283576094119302678
+    second: SpriteExport_15-29_14
+  - first:
+      213: -2848008081655883522
+    second: SpriteExport_15-29_15
+  - first:
+      213: -2133878936228352601
+    second: SpriteExport_15-29_16
+  - first:
+      213: 4353274152442562962
+    second: SpriteExport_15-29_17
+  - first:
+      213: 8329059015585099796
+    second: SpriteExport_15-29_18
+  - first:
+      213: -3231641173649371833
+    second: SpriteExport_15-29_19
+  - first:
+      213: -5725194191307929533
+    second: SpriteExport_15-29_20
+  - first:
+      213: -3366940419450448122
+    second: SpriteExport_15-29_21
+  - first:
+      213: 7990865936178199837
+    second: SpriteExport_15-29_22
+  - first:
+      213: 9012439863922342274
+    second: SpriteExport_15-29_23
+  - first:
+      213: 8695478302665983657
+    second: SpriteExport_15-29_24
+  - first:
+      213: 5425551133444332593
+    second: SpriteExport_15-29_25
+  - first:
+      213: -9133239418200358784
+    second: SpriteExport_15-29_26
+  - first:
+      213: 5478590576796389851
+    second: SpriteExport_15-29_27
+  - first:
+      213: -5906024307782268941
+    second: SpriteExport_15-29_28
+  - first:
+      213: 8530181831380740665
+    second: SpriteExport_15-29_29
+  - first:
+      213: 1965396552598106479
+    second: SpriteExport_15-29_30
+  - first:
+      213: -1610908676141414028
+    second: SpriteExport_15-29_31
+  - first:
+      213: 6055733599651900185
+    second: SpriteExport_15-29_32
+  - first:
+      213: 8128253107588176252
+    second: SpriteExport_15-29_33
+  - first:
+      213: -6887622141377487555
+    second: SpriteExport_15-29_34
+  - first:
+      213: 965235835096206884
+    second: SpriteExport_15-29_35
+  - first:
+      213: 1097829422317613755
+    second: SpriteExport_15-29_36
+  - first:
+      213: 3636130974685539113
+    second: SpriteExport_15-29_37
+  - first:
+      213: -1117606865278114780
+    second: SpriteExport_15-29_38
+  - first:
+      213: -4869806963696742231
+    second: SpriteExport_15-29_39
+  - first:
+      213: 2595616569556980453
+    second: SpriteExport_15-29_40
+  - first:
+      213: -6113492126229409266
+    second: SpriteExport_15-29_41
+  - first:
+      213: 2557710982550307679
+    second: SpriteExport_15-29_42
+  - first:
+      213: 8999320370978420679
+    second: SpriteExport_15-29_43
+  - first:
+      213: 3021345624165303593
+    second: SpriteExport_15-29_44
+  - first:
+      213: -1389934646100136318
+    second: SpriteExport_15-29_45
+  - first:
+      213: -5115683150024558609
+    second: SpriteExport_15-29_46
+  - first:
+      213: -7621177028528791099
+    second: SpriteExport_15-29_47
+  - first:
+      213: -3732488615690504042
+    second: SpriteExport_15-29_48
+  - first:
+      213: -8986381472065786359
+    second: SpriteExport_15-29_49
+  - first:
+      213: 2719297372902498213
+    second: SpriteExport_15-29_50
+  - first:
+      213: -3183510203509091132
+    second: SpriteExport_15-29_51
+  - first:
+      213: -6188836213321943749
+    second: SpriteExport_15-29_52
+  - first:
+      213: -1050463626173223830
+    second: SpriteExport_15-29_53
+  - first:
+      213: 1470932212673080009
+    second: SpriteExport_15-29_54
+  - first:
+      213: -661408840563779907
+    second: SpriteExport_15-29_55
+  - first:
+      213: 6743817239378326019
+    second: SpriteExport_15-29_56
+  - first:
+      213: 5571021025501189047
+    second: SpriteExport_15-29_57
+  - first:
+      213: 624897878370121424
+    second: SpriteExport_15-29_58
+  - first:
+      213: 5589786268587904192
+    second: SpriteExport_15-29_59
+  - first:
+      213: 606183594338844987
+    second: SpriteExport_15-29_60
+  - first:
+      213: 4451440044268857497
+    second: SpriteExport_15-29_61
+  - first:
+      213: 4462407065428448586
+    second: SpriteExport_15-29_62
+  - first:
+      213: -8276586514770246613
+    second: SpriteExport_15-29_63
+  - first:
+      213: 3475964039360754325
+    second: SpriteExport_15-29_64
+  - first:
+      213: 5855727397786230523
+    second: SpriteExport_15-29_65
+  - first:
+      213: 9104130704853628435
+    second: SpriteExport_15-29_66
+  - first:
+      213: 591374522660269534
+    second: SpriteExport_15-29_67
+  - first:
+      213: -3661121680282231129
+    second: SpriteExport_15-29_68
+  - first:
+      213: -2471661654584681240
+    second: SpriteExport_15-29_69
+  - first:
+      213: -2186474346525801497
+    second: SpriteExport_15-29_70
+  - first:
+      213: -6511273882084024620
+    second: SpriteExport_15-29_71
+  - first:
+      213: -5890915717227141765
+    second: SpriteExport_15-29_72
+  - first:
+      213: 249456920424515336
+    second: SpriteExport_15-29_73
+  - first:
+      213: -2347648471125374619
+    second: SpriteExport_15-29_74
+  - first:
+      213: -6984514937150340570
+    second: SpriteExport_15-29_75
+  - first:
+      213: 2514448316087749111
+    second: SpriteExport_15-29_76
+  - first:
+      213: 4989807807334174041
+    second: SpriteExport_15-29_77
+  - first:
+      213: 7015360607782882297
+    second: SpriteExport_15-29_78
+  - first:
+      213: 8015973122528912010
+    second: SpriteExport_15-29_79
+  - first:
+      213: 3368486140114663793
+    second: SpriteExport_15-29_80
+  - first:
+      213: 564226594808739750
+    second: SpriteExport_15-29_81
+  - first:
+      213: 8576322937612264439
+    second: SpriteExport_15-29_82
+  - first:
+      213: -5479801203466229734
+    second: SpriteExport_15-29_83
+  - first:
+      213: -9045790972579632684
+    second: SpriteExport_15-29_84
+  - first:
+      213: 7234926649064884161
+    second: SpriteExport_15-29_85
+  - first:
+      213: -8435255848301944754
+    second: SpriteExport_15-29_86
+  - first:
+      213: -2701447903641708879
+    second: SpriteExport_15-29_87
+  - first:
+      213: -8928160676247598084
+    second: SpriteExport_15-29_88
+  - first:
+      213: -4558263057705164228
+    second: SpriteExport_15-29_89
+  - first:
+      213: -7783684711325085428
+    second: SpriteExport_15-29_90
+  - first:
+      213: 3683982225780400847
+    second: SpriteExport_15-29_91
+  - first:
+      213: -9070462486283567435
+    second: SpriteExport_15-29_92
+  - first:
+      213: -2264353076831898793
+    second: SpriteExport_15-29_93
+  - first:
+      213: 378265887065334388
+    second: SpriteExport_15-29_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Select_FrostMage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3475fafd79944bb356d05faed4bc3
+      internalID: -103513807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0692cad137964db7ef64bc8079f82
+      internalID: -2095285408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d43e8596a5324f9c2f82396e012a4
+      internalID: 856378165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6d84277ac7ee3448f4c13c3d76e116
+      internalID: -507382824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50813a1f88609bb48bef5990694c1583
+      internalID: -2036652481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838334e15791a5479dfcfd03b47ab25
+      internalID: 259097803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40dba9fd4ce2f0498f50ed982a9111d
+      internalID: 1245150828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2488aff8e1c3d5649bd258bcd1c57dd5
+      internalID: -1296261132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78dd646b41db9c4dbd6d4f66071a388
+      internalID: 622568743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d6adc1d3d2db4b85f84a5200e63b4
+      internalID: -885925203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc18a897bf50744884e382731af9852
+      internalID: 381508426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11b4beaf45e2b48b60ded6b4c6b5f3
+      internalID: 125623224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b307db6fdda0da84cb6cc72a08e3bd3e
+      internalID: 1097530190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2427e378f9e47d4482ac44b3d78ddb7
+      internalID: 1856971875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_FrostMage_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c4ebbaf924b047bf969d42b3af821
+      internalID: -169529793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 82096aee0565bd645ba1279028bdd2e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Select_FrostMage_0: -103513807
+      Select_FrostMage_1: -2095285408
+      Select_FrostMage_10: 381508426
+      Select_FrostMage_11: 125623224
+      Select_FrostMage_12: 1097530190
+      Select_FrostMage_13: 1856971875
+      Select_FrostMage_14: -169529793
+      Select_FrostMage_2: 856378165
+      Select_FrostMage_3: -507382824
+      Select_FrostMage_4: -2036652481
+      Select_FrostMage_5: 259097803
+      Select_FrostMage_6: 1245150828
+      Select_FrostMage_7: -1296261132
+      Select_FrostMage_8: 622568743
+      Select_FrostMage_9: -885925203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
