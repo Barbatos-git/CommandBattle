@@ -52,7 +52,6 @@ CommandBattle
   - QTE     　       : QTE（クイックタイムイベント）のプレハブ
   - Audio            : BGMと効果音
   - Resources        : 各種素材とキャラクター、UI、攻撃演出のプレハブ
-  
 
 【使用技術・プラグイン】
 - Unity 6000.0.23f1
