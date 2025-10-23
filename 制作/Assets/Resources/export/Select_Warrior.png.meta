@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: d046892250ec60d438e52572d57ac40e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 532888041475146098
+    second: SpriteExport_15-29_0
+  - first:
+      213: -3728582642435937946
+    second: SpriteExport_15-29_1
+  - first:
+      213: -7975874309007393015
+    second: SpriteExport_15-29_2
+  - first:
+      213: 1624891965529806634
+    second: SpriteExport_15-29_3
+  - first:
+      213: 6278428010469308038
+    second: SpriteExport_15-29_4
+  - first:
+      213: -6474254627297683645
+    second: SpriteExport_15-29_5
+  - first:
+      213: 7014584992935250634
+    second: SpriteExport_15-29_6
+  - first:
+      213: 8981208929114158272
+    second: SpriteExport_15-29_7
+  - first:
+      213: 5716792274959059024
+    second: SpriteExport_15-29_8
+  - first:
+      213: 297751844943212437
+    second: SpriteExport_15-29_9
+  - first:
+      213: -6336617401804662101
+    second: SpriteExport_15-29_10
+  - first:
+      213: 5715916222552789160
+    second: SpriteExport_15-29_11
+  - first:
+      213: 5272871223825362242
+    second: SpriteExport_15-29_12
+  - first:
+      213: -9200041710040496970
+    second: SpriteExport_15-29_13
+  - first:
+      213: 4283576094119302678
+    second: SpriteExport_15-29_14
+  - first:
+      213: -2848008081655883522
+    second: SpriteExport_15-29_15
+  - first:
+      213: -2133878936228352601
+    second: SpriteExport_15-29_16
+  - first:
+      213: 4353274152442562962
+    second: SpriteExport_15-29_17
+  - first:
+      213: 8329059015585099796
+    second: SpriteExport_15-29_18
+  - first:
+      213: -3231641173649371833
+    second: SpriteExport_15-29_19
+  - first:
+      213: -5725194191307929533
+    second: SpriteExport_15-29_20
+  - first:
+      213: -3366940419450448122
+    second: SpriteExport_15-29_21
+  - first:
+      213: 7990865936178199837
+    second: SpriteExport_15-29_22
+  - first:
+      213: 9012439863922342274
+    second: SpriteExport_15-29_23
+  - first:
+      213: 8695478302665983657
+    second: SpriteExport_15-29_24
+  - first:
+      213: 5425551133444332593
+    second: SpriteExport_15-29_25
+  - first:
+      213: -9133239418200358784
+    second: SpriteExport_15-29_26
+  - first:
+      213: 5478590576796389851
+    second: SpriteExport_15-29_27
+  - first:
+      213: -5906024307782268941
+    second: SpriteExport_15-29_28
+  - first:
+      213: 8530181831380740665
+    second: SpriteExport_15-29_29
+  - first:
+      213: 1965396552598106479
+    second: SpriteExport_15-29_30
+  - first:
+      213: -1610908676141414028
+    second: SpriteExport_15-29_31
+  - first:
+      213: 6055733599651900185
+    second: SpriteExport_15-29_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Select_Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762044b5b00ae2f4482efdcd8198e8fe
+      internalID: 1906472956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4929e0eff5d1b42b8fd37f36ad7786
+      internalID: 1868241545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd71e37408a3a43b6f0d649978a4e5
+      internalID: -2088732447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f0d001e98f154dbf4ae5ef6d96226
+      internalID: -1029549889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f03b7353aa84544b57880f842c0338
+      internalID: 287333639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e7041d24f53ab4a87f336f1311908f
+      internalID: 1822315245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612730d5547e8d84a93d35edee1b3e08
+      internalID: 305520815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda1cf3130d9f84ab04974e353e09b6
+      internalID: 113772349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2332783f30ddf46b29036bc5b2f69c
+      internalID: 112588893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01d0e8ee2e1b24fa7c40bb47964dc5
+      internalID: -1003213718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287d3cde9fd37b49874399541ac521a
+      internalID: 470866180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af6ff6ca68bd634fae542438b1695c1
+      internalID: 2064216781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6fdc865830f9f40a272130b8267611
+      internalID: 623146499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fbcfe296d84bc428255e75fe37c8c7
+      internalID: 1195203235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Select_Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb269f2d49941a04eb658419332e9ee6
+      internalID: -1628282627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ebb18c897d9b3994ca7169134de0c82d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Select_Warrior_0: 1906472956
+      Select_Warrior_1: 1868241545
+      Select_Warrior_10: 470866180
+      Select_Warrior_11: 2064216781
+      Select_Warrior_12: 623146499
+      Select_Warrior_13: 1195203235
+      Select_Warrior_14: -1628282627
+      Select_Warrior_2: -2088732447
+      Select_Warrior_3: -1029549889
+      Select_Warrior_4: 287333639
+      Select_Warrior_5: 1822315245
+      Select_Warrior_6: 305520815
+      Select_Warrior_7: 113772349
+      Select_Warrior_8: 112588893
+      Select_Warrior_9: -1003213718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

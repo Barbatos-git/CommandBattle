@@ -1,0 +1,5142 @@
+fileFormatVersion: 2
+guid: 16aad9279d975464683050e2c5abe6bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8030687220924268811
+    second: Attack4_0
+  - first:
+      213: -7561128698911238420
+    second: Attack4_1
+  - first:
+      213: -7947747227298428932
+    second: Attack4_2
+  - first:
+      213: -2361355628664476400
+    second: Attack4_3
+  - first:
+      213: -4481701969095578137
+    second: Attack4_4
+  - first:
+      213: -8154881005140736650
+    second: Attack4_5
+  - first:
+      213: 6463297546475358323
+    second: Attack4_6
+  - first:
+      213: 3733373289256526066
+    second: Attack4_7
+  - first:
+      213: 991912686229344924
+    second: Attack4_8
+  - first:
+      213: 6131556563222710612
+    second: Attack4_9
+  - first:
+      213: -815139512101234470
+    second: Attack4_10
+  - first:
+      213: 1794741174938853440
+    second: Attack4_11
+  - first:
+      213: -1881303517613361053
+    second: Attack4_12
+  - first:
+      213: 4638942698407370465
+    second: Attack4_13
+  - first:
+      213: -24697262358651010
+    second: Attack4_14
+  - first:
+      213: -2688182341917030909
+    second: Attack4_15
+  - first:
+      213: 2235792274506837265
+    second: Attack4_16
+  - first:
+      213: 6019177172889789082
+    second: Attack4_17
+  - first:
+      213: 3744116564706380367
+    second: Attack4_18
+  - first:
+      213: 8566852182991735778
+    second: Attack4_19
+  - first:
+      213: -1073872864795930128
+    second: Attack4_20
+  - first:
+      213: 6951264829449484148
+    second: Attack4_21
+  - first:
+      213: 2284264848388472368
+    second: Attack4_22
+  - first:
+      213: 4910101026939594452
+    second: Attack4_23
+  - first:
+      213: -3990899106179853599
+    second: Attack4_24
+  - first:
+      213: 2953812379849050035
+    second: Attack4_25
+  - first:
+      213: 1182755563509028297
+    second: Attack4_26
+  - first:
+      213: 1805426594164590762
+    second: Attack4_27
+  - first:
+      213: 1510205287090626661
+    second: Attack4_28
+  - first:
+      213: 1791645570211673855
+    second: Attack4_29
+  - first:
+      213: 5753530158897196011
+    second: Attack4_30
+  - first:
+      213: 846457335777730213
+    second: Attack4_31
+  - first:
+      213: -2040147754924470309
+    second: Attack4_32
+  - first:
+      213: -4491602032165156113
+    second: Attack4_33
+  - first:
+      213: -2388726355054501957
+    second: Attack4_34
+  - first:
+      213: 4961199876062207800
+    second: Attack4_35
+  - first:
+      213: -667622736874139926
+    second: Attack4_36
+  - first:
+      213: -3361365423129747298
+    second: Attack4_37
+  - first:
+      213: -2184956434374485919
+    second: Attack4_38
+  - first:
+      213: 5227641221831400941
+    second: Attack4_39
+  - first:
+      213: 1009519077050827789
+    second: Attack4_40
+  - first:
+      213: -4015616033579702821
+    second: Attack4_41
+  - first:
+      213: 8667418812682096455
+    second: Attack4_42
+  - first:
+      213: 2576699668007763678
+    second: Attack4_43
+  - first:
+      213: 4075641583239455938
+    second: Attack4_44
+  - first:
+      213: 1893160104955597697
+    second: Attack4_45
+  - first:
+      213: 2721476681707122652
+    second: Attack4_46
+  - first:
+      213: 4110657350294157742
+    second: Attack4_47
+  - first:
+      213: -8773809827732230040
+    second: Attack4_48
+  - first:
+      213: -117764201782765175
+    second: Attack4_49
+  - first:
+      213: -1641347371457991619
+    second: Attack4_50
+  - first:
+      213: 1130796448803730398
+    second: Attack4_51
+  - first:
+      213: -448039474805868567
+    second: Attack4_52
+  - first:
+      213: 292975126217651097
+    second: Attack4_53
+  - first:
+      213: 5620698969063258775
+    second: Attack4_54
+  - first:
+      213: -7497121878353553119
+    second: Attack4_55
+  - first:
+      213: -1975990586696795180
+    second: Attack4_56
+  - first:
+      213: 6964977647803224489
+    second: Attack4_57
+  - first:
+      213: 56143587593380846
+    second: Attack4_58
+  - first:
+      213: -9006413124696941849
+    second: Attack4_59
+  - first:
+      213: -5479571563698523157
+    second: Attack4_60
+  - first:
+      213: -8304893753150639988
+    second: Attack4_61
+  - first:
+      213: -6058520571098227567
+    second: Attack4_62
+  - first:
+      213: -1789064992679398705
+    second: Attack4_63
+  - first:
+      213: 6842188415690048460
+    second: Attack4_64
+  - first:
+      213: -2959072906864176808
+    second: Attack4_65
+  - first:
+      213: -2536889664842640116
+    second: Attack4_66
+  - first:
+      213: -336849352051825519
+    second: Attack4_67
+  - first:
+      213: 4383461319246939475
+    second: Attack4_68
+  - first:
+      213: 1534344686096782883
+    second: Attack4_69
+  - first:
+      213: -1319515877507269201
+    second: Attack4_70
+  - first:
+      213: -7910223565585535637
+    second: Attack4_71
+  - first:
+      213: 5606900033288736661
+    second: Attack4_72
+  - first:
+      213: -9199387720952597791
+    second: Attack4_73
+  - first:
+      213: 2805268731961493440
+    second: Attack4_74
+  - first:
+      213: -5195688276068914149
+    second: Attack4_75
+  - first:
+      213: -4117825974773846886
+    second: Attack4_76
+  - first:
+      213: -6033536105846582122
+    second: Attack4_77
+  - first:
+      213: -4448581145846595119
+    second: Attack4_78
+  - first:
+      213: 7169365961506078922
+    second: Attack4_79
+  - first:
+      213: 3274598585201218399
+    second: Attack4_80
+  - first:
+      213: 3347311740598359092
+    second: Attack4_81
+  - first:
+      213: -1715817358174689658
+    second: Attack4_82
+  - first:
+      213: -8546708476276117028
+    second: Attack4_83
+  - first:
+      213: -2145980479532502128
+    second: Attack4_84
+  - first:
+      213: -5478252283676550795
+    second: Attack4_85
+  - first:
+      213: -7211835236174865512
+    second: Attack4_86
+  - first:
+      213: 4996054385418555507
+    second: Attack4_87
+  - first:
+      213: -532213739862549113
+    second: Attack4_88
+  - first:
+      213: 2568160599098420679
+    second: Attack4_89
+  - first:
+      213: 7951726344451367382
+    second: Attack4_90
+  - first:
+      213: -3474822924372288448
+    second: Attack4_91
+  - first:
+      213: -122898969916668468
+    second: Attack4_92
+  - first:
+      213: -1179648174043859897
+    second: Attack4_93
+  - first:
+      213: -1771462711768061499
+    second: Attack4_94
+  - first:
+      213: 2239636125800566019
+    second: Attack4_95
+  - first:
+      213: 8157271216181495249
+    second: Attack4_96
+  - first:
+      213: -3448371668015582509
+    second: Attack4_97
+  - first:
+      213: 1247483574033075601
+    second: Attack4_98
+  - first:
+      213: -3506723821314852607
+    second: Attack4_99
+  - first:
+      213: 8927247612427460211
+    second: Attack4_100
+  - first:
+      213: 8507786696754641689
+    second: Attack4_101
+  - first:
+      213: -8151761259020274352
+    second: Attack4_102
+  - first:
+      213: 8364631304462419432
+    second: Attack4_103
+  - first:
+      213: -7636390576363691214
+    second: Attack4_104
+  - first:
+      213: 437561603944735361
+    second: Attack4_105
+  - first:
+      213: 6368572251089942877
+    second: Attack4_106
+  - first:
+      213: 6025591533786227640
+    second: Attack4_107
+  - first:
+      213: 7800592609329553283
+    second: Attack4_108
+  - first:
+      213: -3474287788485905082
+    second: Attack4_109
+  - first:
+      213: -7279346220274629219
+    second: Attack4_110
+  - first:
+      213: -1796818409487941137
+    second: Attack4_111
+  - first:
+      213: 5972586115778978255
+    second: Attack4_112
+  - first:
+      213: -1100821637996716894
+    second: Attack4_113
+  - first:
+      213: 729369199095196123
+    second: Attack4_114
+  - first:
+      213: 8405229826653829931
+    second: Attack4_115
+  - first:
+      213: 7320541231432273926
+    second: Attack4_116
+  - first:
+      213: -7421426194455335869
+    second: Attack4_117
+  - first:
+      213: 2405424894402886329
+    second: Attack4_118
+  - first:
+      213: 710232047340566546
+    second: Attack4_119
+  - first:
+      213: -1915896498521358388
+    second: Attack4_120
+  - first:
+      213: 2555855461743497593
+    second: Attack4_121
+  - first:
+      213: 7028859500894837437
+    second: Attack4_122
+  - first:
+      213: -5462156509693919520
+    second: Attack4_123
+  - first:
+      213: -32184427447712493
+    second: Attack4_124
+  - first:
+      213: 4664411791174176389
+    second: Attack4_125
+  - first:
+      213: -3712911479837538754
+    second: Attack4_126
+  - first:
+      213: 8777497459782305958
+    second: Attack4_127
+  - first:
+      213: -5597486864830094876
+    second: Attack4_128
+  - first:
+      213: -7845811605711835205
+    second: Attack4_129
+  - first:
+      213: 4327080860213844911
+    second: Attack4_130
+  - first:
+      213: -119691846448733527
+    second: Attack4_131
+  - first:
+      213: -2756639779554448671
+    second: Attack4_132
+  - first:
+      213: 9150261027552958565
+    second: Attack4_133
+  - first:
+      213: -3302658258606099400
+    second: Attack4_134
+  - first:
+      213: 637111763438386210
+    second: Attack4_135
+  - first:
+      213: -8212561505159442847
+    second: Attack4_136
+  - first:
+      213: -6372252264904128561
+    second: Attack4_137
+  - first:
+      213: 1872282019910187568
+    second: Attack4_138
+  - first:
+      213: 6719550148552345770
+    second: Attack4_139
+  - first:
+      213: 3478228325469841813
+    second: Attack4_140
+  - first:
+      213: -6220128676933230950
+    second: Attack4_141
+  - first:
+      213: -2904836963389820912
+    second: Attack4_142
+  - first:
+      213: 8837630522117698556
+    second: Attack4_143
+  - first:
+      213: 437218722070333337
+    second: Attack4_144
+  - first:
+      213: -3959484056261058910
+    second: Attack4_145
+  - first:
+      213: -209973830513379965
+    second: Attack4_146
+  - first:
+      213: -6574619234222969984
+    second: Attack4_147
+  - first:
+      213: -1602521588178444169
+    second: Attack4_148
+  - first:
+      213: 3983669999467278212
+    second: Attack4_149
+  - first:
+      213: -6143412509498734747
+    second: Attack4_150
+  - first:
+      213: -225426336163133784
+    second: Attack4_151
+  - first:
+      213: -4646118621567814498
+    second: Attack4_152
+  - first:
+      213: -8864645861916180150
+    second: Attack4_153
+  - first:
+      213: -1649911047226889618
+    second: Attack4_154
+  - first:
+      213: -942407178151200677
+    second: Attack4_155
+  - first:
+      213: -1862844929216954962
+    second: Attack4_156
+  - first:
+      213: 5789777856541517516
+    second: Attack4_157
+  - first:
+      213: 3267431415055722528
+    second: Attack4_158
+  - first:
+      213: -1767747802065630473
+    second: Attack4_159
+  - first:
+      213: -4138519041925779695
+    second: Attack4_160
+  - first:
+      213: 829360783591709764
+    second: Attack4_161
+  - first:
+      213: 4776383131961991373
+    second: Attack4_162
+  - first:
+      213: 7571888900916367547
+    second: Attack4_163
+  - first:
+      213: -3557792834867320538
+    second: Attack4_164
+  - first:
+      213: -2953657033016030414
+    second: Attack4_165
+  - first:
+      213: -1992143239858955151
+    second: Attack4_166
+  - first:
+      213: -7888474342468476470
+    second: Attack4_167
+  - first:
+      213: 1893198381379452265
+    second: Attack4_168
+  - first:
+      213: 849350986231395726
+    second: Attack4_169
+  - first:
+      213: -4845801315948811053
+    second: Attack4_170
+  - first:
+      213: 2147573229989540416
+    second: Attack4_171
+  - first:
+      213: -6712997916987542112
+    second: Attack4_172
+  - first:
+      213: -7419004396331486888
+    second: Attack4_173
+  - first:
+      213: 7714202917488449960
+    second: Attack4_174
+  - first:
+      213: -3586217928180554267
+    second: Attack4_175
+  - first:
+      213: 2805624268572333175
+    second: Attack4_176
+  - first:
+      213: -9097609376051366900
+    second: Attack4_177
+  - first:
+      213: 1611376134592206266
+    second: Attack4_178
+  - first:
+      213: -3043023091664840997
+    second: Attack4_179
+  - first:
+      213: 1925470822522116501
+    second: Attack4_180
+  - first:
+      213: 3664487572066325858
+    second: Attack4_181
+  - first:
+      213: -4729776354514114180
+    second: Attack4_182
+  - first:
+      213: -8768353121023140414
+    second: Attack4_183
+  - first:
+      213: 204294920587234070
+    second: Attack4_184
+  - first:
+      213: 8323670130714577988
+    second: Attack4_185
+  - first:
+      213: -647461043398808938
+    second: Attack4_186
+  - first:
+      213: -5292317520327612579
+    second: Attack4_187
+  - first:
+      213: -158036774933437699
+    second: Attack4_188
+  - first:
+      213: 602700550226638937
+    second: Attack4_189
+  - first:
+      213: -6471212315586581557
+    second: Attack4_190
+  - first:
+      213: -1467221896734214497
+    second: Attack4_191
+  - first:
+      213: 9185112117841454516
+    second: Attack4_192
+  - first:
+      213: 8424329941635966554
+    second: Attack4_193
+  - first:
+      213: -4856779023075464669
+    second: Attack4_194
+  - first:
+      213: 8303111364945479107
+    second: Attack4_195
+  - first:
+      213: -1066355736711030784
+    second: Attack4_196
+  - first:
+      213: 6126522224331536880
+    second: Attack4_197
+  - first:
+      213: 5428072141374880109
+    second: Attack4_198
+  - first:
+      213: 9127423683863319901
+    second: Attack4_199
+  - first:
+      213: -1467876236843697222
+    second: Attack4_200
+  - first:
+      213: -177862585136100368
+    second: Attack4_201
+  - first:
+      213: -4427487288396675642
+    second: Attack4_202
+  - first:
+      213: -2541258227358525554
+    second: Attack4_203
+  - first:
+      213: -5037834729413129431
+    second: Attack4_204
+  - first:
+      213: 2428401390109801519
+    second: Attack4_205
+  - first:
+      213: 5797629364205070760
+    second: Attack4_206
+  - first:
+      213: -7714359669718349721
+    second: Attack4_207
+  - first:
+      213: -5837824991210628184
+    second: Attack4_208
+  - first:
+      213: 2028171407502112043
+    second: Attack4_209
+  - first:
+      213: -8859555933941680980
+    second: Attack4_210
+  - first:
+      213: -236421867580015689
+    second: Attack4_211
+  - first:
+      213: -7209850131913476182
+    second: Attack4_212
+  - first:
+      213: -2956288113899292910
+    second: Attack4_213
+  - first:
+      213: -8790738902233588519
+    second: Attack4_214
+  - first:
+      213: -7683070974743121813
+    second: Attack4_215
+  - first:
+      213: -6386547831244330508
+    second: Attack4_216
+  - first:
+      213: 1741033302497443419
+    second: Attack4_217
+  - first:
+      213: 8051930795932144939
+    second: Attack4_218
+  - first:
+      213: -616576588302796413
+    second: Attack4_219
+  - first:
+      213: -703293664763943463
+    second: Attack4_220
+  - first:
+      213: 2832311440944268953
+    second: Attack4_221
+  - first:
+      213: -1701593885159806276
+    second: Attack4_222
+  - first:
+      213: -4963364312454789200
+    second: Attack4_223
+  - first:
+      213: 2218729710411121031
+    second: Attack4_224
+  - first:
+      213: -5153994302345397767
+    second: Attack4_225
+  - first:
+      213: 8244349797226068820
+    second: Attack4_226
+  - first:
+      213: -4856875127254463986
+    second: Attack4_227
+  - first:
+      213: -7790922555549625287
+    second: Attack4_228
+  - first:
+      213: -8694606294371572558
+    second: Attack4_229
+  - first:
+      213: 6773699736588131444
+    second: Attack4_230
+  - first:
+      213: 6646512827912676298
+    second: Attack4_231
+  - first:
+      213: -3030363415487204602
+    second: Attack4_232
+  - first:
+      213: 658200199183160197
+    second: Attack4_233
+  - first:
+      213: 6310362429764255424
+    second: Attack4_234
+  - first:
+      213: -8049968380674691794
+    second: Attack4_235
+  - first:
+      213: -7056987977730632245
+    second: Attack4_236
+  - first:
+      213: -3652941791581507408
+    second: Attack4_237
+  - first:
+      213: -5505992547122560135
+    second: Attack4_238
+  - first:
+      213: -6722393807296993903
+    second: Attack4_239
+  - first:
+      213: 4761695922617401243
+    second: Attack4_240
+  - first:
+      213: -1143719246786653587
+    second: Attack4_241
+  - first:
+      213: 4265420966092075436
+    second: Attack4_242
+  - first:
+      213: -6534705461621325739
+    second: Attack4_243
+  - first:
+      213: 2774593027350839076
+    second: Attack4_244
+  - first:
+      213: 7703221516953777277
+    second: Attack4_245
+  - first:
+      213: 3681404635679891483
+    second: Attack4_246
+  - first:
+      213: -7663485330423197241
+    second: Attack4_247
+  - first:
+      213: 2139758300204649206
+    second: Attack4_248
+  - first:
+      213: 2207205579763521740
+    second: Attack4_249
+  - first:
+      213: 7539653043481133003
+    second: Attack4_250
+  - first:
+      213: -7113574565077096157
+    second: Attack4_251
+  - first:
+      213: 3723249899117317568
+    second: Attack4_252
+  - first:
+      213: -4689938121620577395
+    second: Attack4_253
+  - first:
+      213: -268097347244621807
+    second: Attack4_254
+  - first:
+      213: -8135306361344090612
+    second: Attack4_255
+  - first:
+      213: -582646458080994668
+    second: Attack4_256
+  - first:
+      213: 8499841230522084341
+    second: Attack4_257
+  - first:
+      213: 6726180672503497616
+    second: Attack4_258
+  - first:
+      213: -6774488612071290905
+    second: Attack4_259
+  - first:
+      213: 2913672535414246148
+    second: Attack4_260
+  - first:
+      213: -7244167084709012589
+    second: Attack4_261
+  - first:
+      213: -8140319308684302354
+    second: Attack4_262
+  - first:
+      213: 9039255061101741770
+    second: Attack4_263
+  - first:
+      213: -8617584129867558174
+    second: Attack4_264
+  - first:
+      213: 7559379440123722021
+    second: Attack4_265
+  - first:
+      213: 2205219227176393311
+    second: Attack4_266
+  - first:
+      213: 93159319526900607
+    second: Attack4_267
+  - first:
+      213: 8474952700716665175
+    second: Attack4_268
+  - first:
+      213: 3646194766717543509
+    second: Attack4_269
+  - first:
+      213: -2509844737204993990
+    second: Attack4_270
+  - first:
+      213: 3071633639271409364
+    second: Attack4_271
+  - first:
+      213: -2788454695926768317
+    second: Attack4_272
+  - first:
+      213: -7800167319332092075
+    second: Attack4_273
+  - first:
+      213: 2829252924960655295
+    second: Attack4_274
+  - first:
+      213: -5316249016008292847
+    second: Attack4_275
+  - first:
+      213: -2727733865244176685
+    second: Attack4_276
+  - first:
+      213: 151545667943024909
+    second: Attack4_277
+  - first:
+      213: 7360757732722061958
+    second: Attack4_278
+  - first:
+      213: -3203272596061248069
+    second: Attack4_279
+  - first:
+      213: -5340957208544476765
+    second: Attack4_280
+  - first:
+      213: 5324253064825676728
+    second: Attack4_281
+  - first:
+      213: -3102913922521412727
+    second: Attack4_282
+  - first:
+      213: -7805844226096922860
+    second: Attack4_283
+  - first:
+      213: -9073201487854040443
+    second: Attack4_284
+  - first:
+      213: -7307981645300737929
+    second: Attack4_285
+  - first:
+      213: -2652024958182396994
+    second: Attack4_286
+  - first:
+      213: 1330267808359703072
+    second: Attack4_287
+  - first:
+      213: 4305998975094199495
+    second: Attack4_288
+  - first:
+      213: 2459018952693988409
+    second: Attack4_289
+  - first:
+      213: 2952347011338640418
+    second: Attack4_290
+  - first:
+      213: 6345939414405233520
+    second: Attack4_291
+  - first:
+      213: 2165126565832526956
+    second: Attack4_292
+  - first:
+      213: -3860249545512942582
+    second: Attack4_293
+  - first:
+      213: -8228521683796395068
+    second: Attack4_294
+  - first:
+      213: -228488468300891864
+    second: Attack4_295
+  - first:
+      213: -9006656180410894660
+    second: Attack4_296
+  - first:
+      213: -4394717506210554831
+    second: Attack4_297
+  - first:
+      213: 1418397942970149844
+    second: Attack4_298
+  - first:
+      213: 5500993705215193811
+    second: Attack4_299
+  - first:
+      213: 6016950193847463206
+    second: Attack4_300
+  - first:
+      213: -1213394386709940676
+    second: Attack4_301
+  - first:
+      213: 3625836047327171283
+    second: Attack4_302
+  - first:
+      213: -9130822587521343202
+    second: Attack4_303
+  - first:
+      213: -8323434748386799589
+    second: Attack4_304
+  - first:
+      213: -562710741414863240
+    second: Attack4_305
+  - first:
+      213: 7710771615203831952
+    second: Attack4_306
+  - first:
+      213: 2410764504800837473
+    second: Attack4_307
+  - first:
+      213: 5226332848455850984
+    second: Attack4_308
+  - first:
+      213: 4587461242069837028
+    second: Attack4_309
+  - first:
+      213: 8571215662035232379
+    second: Attack4_310
+  - first:
+      213: -1830573123826757447
+    second: Attack4_311
+  - first:
+      213: 154827802225538729
+    second: Attack4_312
+  - first:
+      213: -1578835353294238008
+    second: Attack4_313
+  - first:
+      213: 3142435389342409980
+    second: Attack4_314
+  - first:
+      213: -5988318912759802978
+    second: Attack4_315
+  - first:
+      213: -2426070638245474916
+    second: Attack4_316
+  - first:
+      213: 6856576808408890918
+    second: Attack4_317
+  - first:
+      213: 2165868052859646721
+    second: Attack4_318
+  - first:
+      213: 8875054630879160551
+    second: Attack4_319
+  - first:
+      213: 4844970107084283452
+    second: Attack4_320
+  - first:
+      213: -211973774190534934
+    second: Attack4_321
+  - first:
+      213: 5351133913046713461
+    second: Attack4_322
+  - first:
+      213: -4357199446066908161
+    second: Attack4_323
+  - first:
+      213: 4200914473518473506
+    second: Attack4_324
+  - first:
+      213: 5180812858606413243
+    second: Attack4_325
+  - first:
+      213: -3684028900090750961
+    second: Attack4_326
+  - first:
+      213: -564525839744831977
+    second: Attack4_327
+  - first:
+      213: -3542131504760055736
+    second: Attack4_328
+  - first:
+      213: 670229674177218212
+    second: Attack4_329
+  - first:
+      213: -4495344170021669363
+    second: Attack4_330
+  - first:
+      213: -2782491342694341857
+    second: Attack4_331
+  - first:
+      213: 7827972589420293114
+    second: Attack4_332
+  - first:
+      213: -804851264251375268
+    second: Attack4_333
+  - first:
+      213: 1068377539976971709
+    second: Attack4_334
+  - first:
+      213: 3989845916594780816
+    second: Attack4_335
+  - first:
+      213: -2550047589128343149
+    second: Attack4_336
+  - first:
+      213: 6180699428506847178
+    second: Attack4_337
+  - first:
+      213: 145386447662446447
+    second: Attack4_338
+  - first:
+      213: 2083757242896767636
+    second: Attack4_339
+  - first:
+      213: 2928859889936152469
+    second: Attack4_340
+  - first:
+      213: -5982619350861945602
+    second: Attack4_341
+  - first:
+      213: -2840869054940623549
+    second: Attack4_342
+  - first:
+      213: -4026229299813147116
+    second: Attack4_343
+  - first:
+      213: 3249281084261116594
+    second: Attack4_344
+  - first:
+      213: -3451280002236864909
+    second: Attack4_345
+  - first:
+      213: 8192779006067751572
+    second: Attack4_346
+  - first:
+      213: 9204823414640494723
+    second: Attack4_347
+  - first:
+      213: 4268409016033725180
+    second: Attack4_348
+  - first:
+      213: -6660520382685717712
+    second: Attack4_349
+  - first:
+      213: 2415817106100959639
+    second: Attack4_350
+  - first:
+      213: 3739484883698619062
+    second: Attack4_351
+  - first:
+      213: 7963484051920240517
+    second: Attack4_352
+  - first:
+      213: -3387095601755055189
+    second: Attack4_353
+  - first:
+      213: -5100262740535277429
+    second: Attack4_354
+  - first:
+      213: -5284114609874777725
+    second: Attack4_355
+  - first:
+      213: -6969508495385777095
+    second: Attack4_356
+  - first:
+      213: -6590121890659892866
+    second: Attack4_357
+  - first:
+      213: -4082091679029563465
+    second: Attack4_358
+  - first:
+      213: -1627739668834823560
+    second: Attack4_359
+  - first:
+      213: 4482290104511407323
+    second: Attack4_360
+  - first:
+      213: -4412974717387156998
+    second: Attack4_361
+  - first:
+      213: -49243890246916981
+    second: Attack4_362
+  - first:
+      213: -1432026400416395669
+    second: Attack4_363
+  - first:
+      213: 3294364575608566948
+    second: Attack4_364
+  - first:
+      213: 846670358611650286
+    second: Attack4_365
+  - first:
+      213: -4443706597548963482
+    second: Attack4_366
+  - first:
+      213: -4442396561613404842
+    second: Attack4_367
+  - first:
+      213: -3380479943421840903
+    second: Attack4_368
+  - first:
+      213: 2873602991398385725
+    second: Attack4_369
+  - first:
+      213: 4463187658197440990
+    second: Attack4_370
+  - first:
+      213: -1018293346745098777
+    second: Attack4_371
+  - first:
+      213: -3535460214351532936
+    second: Attack4_372
+  - first:
+      213: 8141063755546098213
+    second: Attack4_373
+  - first:
+      213: -5215649972488608222
+    second: Attack4_374
+  - first:
+      213: 4568074051115685346
+    second: Attack4_375
+  - first:
+      213: -9102892153542845268
+    second: Attack4_376
+  - first:
+      213: -2934960744103656299
+    second: Attack4_377
+  - first:
+      213: -6708430766856221108
+    second: Attack4_378
+  - first:
+      213: 8931017062098220815
+    second: Attack4_379
+  - first:
+      213: -4526842998610640822
+    second: Attack4_380
+  - first:
+      213: 8993335114212648284
+    second: Attack4_381
+  - first:
+      213: 4158452136265129902
+    second: Attack4_382
+  - first:
+      213: -5164997427413924395
+    second: Attack4_383
+  - first:
+      213: 8385742544612258593
+    second: Attack4_384
+  - first:
+      213: -5548694973265553035
+    second: Attack4_385
+  - first:
+      213: 8342593066212125869
+    second: Attack4_386
+  - first:
+      213: 7081862111605768428
+    second: Attack4_387
+  - first:
+      213: 5035698170483159687
+    second: Attack4_388
+  - first:
+      213: 8202505477608796455
+    second: Attack4_389
+  - first:
+      213: 1512162625650731953
+    second: Attack4_390
+  - first:
+      213: -2033512927307967116
+    second: Attack4_391
+  - first:
+      213: -1768203512478386482
+    second: Attack4_392
+  - first:
+      213: -6441628128984491508
+    second: Attack4_393
+  - first:
+      213: -2808072910196732754
+    second: Attack4_394
+  - first:
+      213: 1878456706665473014
+    second: Attack4_395
+  - first:
+      213: -1382883082441148088
+    second: Attack4_396
+  - first:
+      213: 8983910867786654510
+    second: Attack4_397
+  - first:
+      213: 7919374499793481480
+    second: Attack4_398
+  - first:
+      213: 8225889426093173339
+    second: Attack4_399
+  - first:
+      213: 9124264094848423788
+    second: Attack4_400
+  - first:
+      213: 1793707397113568973
+    second: Attack4_401
+  - first:
+      213: 8693432751438238033
+    second: Attack4_402
+  - first:
+      213: 1327099213875922974
+    second: Attack4_403
+  - first:
+      213: 888200433071817927
+    second: Attack4_404
+  - first:
+      213: 753083443798910255
+    second: Attack4_405
+  - first:
+      213: -6780127632930526390
+    second: Attack4_406
+  - first:
+      213: 6869110637740831841
+    second: Attack4_407
+  - first:
+      213: 1620234571961959886
+    second: Attack4_408
+  - first:
+      213: 8458103029104421507
+    second: Attack4_409
+  - first:
+      213: -287922958770406515
+    second: Attack4_410
+  - first:
+      213: -8193109477602794166
+    second: Attack4_411
+  - first:
+      213: -112265795681504881
+    second: Attack4_412
+  - first:
+      213: -9117073056797984936
+    second: Attack4_413
+  - first:
+      213: 1204662380424747682
+    second: Attack4_414
+  - first:
+      213: 3480079763696733488
+    second: Attack4_415
+  - first:
+      213: 413156442126061944
+    second: Attack4_416
+  - first:
+      213: -3935411786582842869
+    second: Attack4_417
+  - first:
+      213: 4614391585989341468
+    second: Attack4_418
+  - first:
+      213: 1825031344740598763
+    second: Attack4_419
+  - first:
+      213: -3443842791613466152
+    second: Attack4_420
+  - first:
+      213: 7575311264250309818
+    second: Attack4_421
+  - first:
+      213: -1332949380541442916
+    second: Attack4_422
+  - first:
+      213: 7637930537378765816
+    second: Attack4_423
+  - first:
+      213: 1506192918218037788
+    second: Attack4_424
+  - first:
+      213: 562084886512389470
+    second: Attack4_425
+  - first:
+      213: -691963217166953674
+    second: Attack4_426
+  - first:
+      213: -1434965375205018644
+    second: Attack4_427
+  - first:
+      213: 7487157672990444838
+    second: Attack4_428
+  - first:
+      213: 2168719214788885899
+    second: Attack4_429
+  - first:
+      213: 3258991978901196505
+    second: Attack4_430
+  - first:
+      213: -7311924343735796936
+    second: Attack4_431
+  - first:
+      213: 8031711155703648542
+    second: Attack4_432
+  - first:
+      213: 5452232744332706823
+    second: Attack4_433
+  - first:
+      213: -143786637566418778
+    second: Attack4_434
+  - first:
+      213: -4396452732447545527
+    second: Attack4_435
+  - first:
+      213: -6128923583281728831
+    second: Attack4_436
+  - first:
+      213: -6875060552656954566
+    second: Attack4_437
+  - first:
+      213: -4163917678917307985
+    second: Attack4_438
+  - first:
+      213: -6463674483456977083
+    second: Attack4_439
+  - first:
+      213: 1122137381103016183
+    second: Attack4_440
+  - first:
+      213: 1281099876476611072
+    second: Attack4_441
+  - first:
+      213: -4842603446859448199
+    second: Attack4_442
+  - first:
+      213: 4927467833179133909
+    second: Attack4_443
+  - first:
+      213: -4352597338156031650
+    second: Attack4_444
+  - first:
+      213: 3939648347052777485
+    second: Attack4_445
+  - first:
+      213: 3706000042944977246
+    second: Attack4_446
+  - first:
+      213: 2965603651512348219
+    second: Attack4_447
+  - first:
+      213: 5878475616316381454
+    second: Attack4_448
+  - first:
+      213: -8362010256556765426
+    second: Attack4_449
+  - first:
+      213: -1098970281003974573
+    second: Attack4_450
+  - first:
+      213: 4811987112834677648
+    second: Attack4_451
+  - first:
+      213: -2958351115693794102
+    second: Attack4_452
+  - first:
+      213: -8391829134477835614
+    second: Attack4_453
+  - first:
+      213: -6307068601012238175
+    second: Attack4_454
+  - first:
+      213: -6012973596606979460
+    second: Attack4_455
+  - first:
+      213: 5651461687560688234
+    second: Attack4_456
+  - first:
+      213: -8609436572886111272
+    second: Attack4_457
+  - first:
+      213: 6890423181399489399
+    second: Attack4_458
+  - first:
+      213: 4601995763815438922
+    second: Attack4_459
+  - first:
+      213: 4170334716596445510
+    second: Attack4_460
+  - first:
+      213: -8965232145380945192
+    second: Attack4_461
+  - first:
+      213: -3180560739760957988
+    second: Attack4_462
+  - first:
+      213: -8598109122574911197
+    second: Attack4_463
+  - first:
+      213: 1100015444885223465
+    second: Attack4_464
+  - first:
+      213: -4288294132873246329
+    second: Attack4_465
+  - first:
+      213: -4991908820636021851
+    second: Attack4_466
+  - first:
+      213: -5248816779412919726
+    second: Attack4_467
+  - first:
+      213: 4336975007696153175
+    second: Attack4_468
+  - first:
+      213: 6624482787497072533
+    second: Attack4_469
+  - first:
+      213: -4196508272634192301
+    second: Attack4_470
+  - first:
+      213: 8803103696329083867
+    second: Attack4_471
+  - first:
+      213: -6186099820941573320
+    second: Attack4_472
+  - first:
+      213: -4957252285694088352
+    second: Attack4_473
+  - first:
+      213: 2726360339322949747
+    second: Attack4_474
+  - first:
+      213: 7382240935475955860
+    second: Attack4_475
+  - first:
+      213: -8409321705871415633
+    second: Attack4_476
+  - first:
+      213: 1866112336287336448
+    second: Attack4_477
+  - first:
+      213: -9068541383913075319
+    second: Attack4_478
+  - first:
+      213: -8108951896776684228
+    second: Attack4_479
+  - first:
+      213: 2230476816601699044
+    second: Attack4_480
+  - first:
+      213: -6611090424248965046
+    second: Attack4_481
+  - first:
+      213: 3682248254916229873
+    second: Attack4_482
+  - first:
+      213: -3336810896018626821
+    second: Attack4_483
+  - first:
+      213: -2004758465219334502
+    second: Attack4_484
+  - first:
+      213: -6923719622589368261
+    second: Attack4_485
+  - first:
+      213: 8670043895063783450
+    second: Attack4_486
+  - first:
+      213: -513123381841257970
+    second: Attack4_487
+  - first:
+      213: 8632487585065141877
+    second: Attack4_488
+  - first:
+      213: -1716173058065124427
+    second: Attack4_489
+  - first:
+      213: 8567269486095488751
+    second: Attack4_490
+  - first:
+      213: 8313455941461362101
+    second: Attack4_491
+  - first:
+      213: 1707805535796137637
+    second: Attack4_492
+  - first:
+      213: 1782510798345673379
+    second: Attack4_493
+  - first:
+      213: -6837717971476416612
+    second: Attack4_494
+  - first:
+      213: 2477777946497626506
+    second: Attack4_495
+  - first:
+      213: 4542726662179281325
+    second: Attack4_496
+  - first:
+      213: -2067966628072794196
+    second: Attack4_497
+  - first:
+      213: 1456621114883801150
+    second: Attack4_498
+  - first:
+      213: -5194286945503479735
+    second: Attack4_499
+  - first:
+      213: 1216344490872998197
+    second: Attack4_500
+  - first:
+      213: -8086699154313594635
+    second: Attack4_501
+  - first:
+      213: -8750289474306100035
+    second: Attack4_502
+  - first:
+      213: -1534511693915916898
+    second: Attack4_503
+  - first:
+      213: -8278646250638472016
+    second: Attack4_504
+  - first:
+      213: -4048262625827745047
+    second: Attack4_505
+  - first:
+      213: -817722062334626262
+    second: Attack4_506
+  - first:
+      213: 7532552159213818428
+    second: Attack4_507
+  - first:
+      213: -9195523424119216776
+    second: Attack4_508
+  - first:
+      213: -8020114977966803342
+    second: Attack4_509
+  - first:
+      213: 4315727008144165248
+    second: Attack4_510
+  - first:
+      213: -8519446816336130151
+    second: Attack4_511
+  - first:
+      213: -8230213246525937211
+    second: Attack4_512
+  - first:
+      213: 2079591449013637447
+    second: Attack4_513
+  - first:
+      213: -2540914651488249094
+    second: Attack4_514
+  - first:
+      213: 2568628868428355868
+    second: Attack4_515
+  - first:
+      213: -6652581744738981621
+    second: Attack4_516
+  - first:
+      213: 7616762897378663800
+    second: Attack4_517
+  - first:
+      213: -4951832945776095608
+    second: Attack4_518
+  - first:
+      213: 5471866504485980832
+    second: Attack4_519
+  - first:
+      213: -2609051752786076883
+    second: Attack4_520
+  - first:
+      213: 6749342761100649732
+    second: Attack4_521
+  - first:
+      213: 1124197648145959739
+    second: Attack4_522
+  - first:
+      213: -1752461345790721074
+    second: Attack4_523
+  - first:
+      213: -6560772826382790883
+    second: Attack4_524
+  - first:
+      213: 5497621764775773276
+    second: Attack4_525
+  - first:
+      213: 2274562899890312202
+    second: Attack4_526
+  - first:
+      213: 2245453797931125243
+    second: Attack4_527
+  - first:
+      213: 3793144000793240852
+    second: Attack4_528
+  - first:
+      213: 4108615842029553962
+    second: Attack4_529
+  - first:
+      213: 7995504510262577598
+    second: Attack4_530
+  - first:
+      213: -4148313133867181370
+    second: Attack4_531
+  - first:
+      213: -3799498705526844412
+    second: Attack4_532
+  - first:
+      213: -3935410587348947188
+    second: Attack4_533
+  - first:
+      213: -451688405707053939
+    second: Attack4_534
+  - first:
+      213: 4101988714792070368
+    second: Attack4_535
+  - first:
+      213: -2096006176643035921
+    second: Attack4_536
+  - first:
+      213: -5182414194515108257
+    second: Attack4_537
+  - first:
+      213: 9018403043141746530
+    second: Attack4_538
+  - first:
+      213: 1064645176023729902
+    second: Attack4_539
+  - first:
+      213: -8220201305239591285
+    second: Attack4_540
+  - first:
+      213: 3455968753954081032
+    second: Attack4_541
+  - first:
+      213: -8040531377637293183
+    second: Attack4_542
+  - first:
+      213: 3824207423744518268
+    second: Attack4_543
+  - first:
+      213: -8837235669611163300
+    second: Attack4_544
+  - first:
+      213: -7339673575414168535
+    second: Attack4_545
+  - first:
+      213: 118690008476729565
+    second: Attack4_546
+  - first:
+      213: 7086806485322661337
+    second: Attack4_547
+  - first:
+      213: 7652596740265863927
+    second: Attack4_548
+  - first:
+      213: 5755498749811281028
+    second: Attack4_549
+  - first:
+      213: 1201329547833457368
+    second: Attack4_550
+  - first:
+      213: 2940754219951648629
+    second: Attack4_551
+  - first:
+      213: 4788332514982658341
+    second: Attack4_552
+  - first:
+      213: 2481942627710621863
+    second: Attack4_553
+  - first:
+      213: 6041910492909034189
+    second: Attack4_554
+  - first:
+      213: 8887763987652739996
+    second: Attack4_555
+  - first:
+      213: 8698818841714637383
+    second: Attack4_556
+  - first:
+      213: -412351342263445379
+    second: Attack4_557
+  - first:
+      213: -6032134969325734374
+    second: Attack4_558
+  - first:
+      213: 6714616189770497861
+    second: Attack4_559
+  - first:
+      213: 6909699423273789963
+    second: Attack4_560
+  - first:
+      213: -7358481786687263275
+    second: Attack4_561
+  - first:
+      213: 759183531894109040
+    second: Attack4_562
+  - first:
+      213: -8167043123148195467
+    second: Attack4_563
+  - first:
+      213: 2478642021536968695
+    second: Attack4_564
+  - first:
+      213: 3494554790117059033
+    second: Attack4_565
+  - first:
+      213: -3091993599710487529
+    second: Attack4_566
+  - first:
+      213: -3823960469200365276
+    second: Attack4_567
+  - first:
+      213: -7939502038146276166
+    second: Attack4_568
+  - first:
+      213: 1394136943020164769
+    second: Attack4_569
+  - first:
+      213: -1907602243130513231
+    second: Attack4_570
+  - first:
+      213: 5556412422016451408
+    second: Attack4_571
+  - first:
+      213: -4761956321517566492
+    second: Attack4_572
+  - first:
+      213: 6472582157345949789
+    second: Attack4_573
+  - first:
+      213: 3150280902408035440
+    second: Attack4_574
+  - first:
+      213: -8720627659543694891
+    second: Attack4_575
+  - first:
+      213: -5685292373411183966
+    second: Attack4_576
+  - first:
+      213: -4983592584244315710
+    second: Attack4_577
+  - first:
+      213: -7172392264223747671
+    second: Attack4_578
+  - first:
+      213: -1115896142446419643
+    second: Attack4_579
+  - first:
+      213: -7441556694876466162
+    second: Attack4_580
+  - first:
+      213: -7299523724113211886
+    second: Attack4_581
+  - first:
+      213: -877316038529001212
+    second: Attack4_582
+  - first:
+      213: -830903371240142279
+    second: Attack4_583
+  - first:
+      213: -3110811301846447153
+    second: Attack4_584
+  - first:
+      213: -7938419040085396720
+    second: Attack4_585
+  - first:
+      213: -4200133380610952024
+    second: Attack4_586
+  - first:
+      213: -6984715484475526839
+    second: Attack4_587
+  - first:
+      213: 7399460835227247071
+    second: Attack4_588
+  - first:
+      213: -1535044194221408128
+    second: Attack4_589
+  - first:
+      213: 51380053833225938
+    second: Attack4_590
+  - first:
+      213: 7473691352302995425
+    second: Attack4_591
+  - first:
+      213: -7926392182431969668
+    second: Attack4_592
+  - first:
+      213: 7338665477256238256
+    second: Attack4_593
+  - first:
+      213: -4531224225080797106
+    second: Attack4_594
+  - first:
+      213: 3344463866205871581
+    second: Attack4_595
+  - first:
+      213: -3379786623087515701
+    second: Attack4_596
+  - first:
+      213: 8988836255900199282
+    second: Attack4_597
+  - first:
+      213: -6378299680764222216
+    second: Attack4_598
+  - first:
+      213: 8916163812284425852
+    second: Attack4_599
+  - first:
+      213: 2947805487357404447
+    second: Attack4_600
+  - first:
+      213: -2895326132254112467
+    second: Attack4_601
+  - first:
+      213: 5038910827423226342
+    second: Attack4_602
+  - first:
+      213: 7847854111833018748
+    second: Attack4_603
+  - first:
+      213: 7226861392141475454
+    second: Attack4_604
+  - first:
+      213: -9187650650546410373
+    second: Attack4_605
+  - first:
+      213: -2935567920337109466
+    second: Attack4_606
+  - first:
+      213: -7714801654033547208
+    second: Attack4_607
+  - first:
+      213: -4089198164469014622
+    second: Attack4_608
+  - first:
+      213: 8612387443040318043
+    second: Attack4_609
+  - first:
+      213: 201636993542231254
+    second: Attack4_610
+  - first:
+      213: -8922850086736752710
+    second: Attack4_611
+  - first:
+      213: -8794218286116791853
+    second: Attack4_612
+  - first:
+      213: 4174706150496265648
+    second: Attack4_613
+  - first:
+      213: -8642336358363611031
+    second: Attack4_614
+  - first:
+      213: -7048103873620013264
+    second: Attack4_615
+  - first:
+      213: 3402137725998767355
+    second: Attack4_616
+  - first:
+      213: 2190413924843497599
+    second: Attack4_617
+  - first:
+      213: 9043840735815538792
+    second: Attack4_618
+  - first:
+      213: 910494784899431946
+    second: Attack4_619
+  - first:
+      213: -2947061086747420493
+    second: Attack4_620
+  - first:
+      213: 6871538101901012831
+    second: Attack4_621
+  - first:
+      213: -3375994369379805288
+    second: Attack4_622
+  - first:
+      213: 8597574931331730611
+    second: Attack4_623
+  - first:
+      213: -1467816159332280368
+    second: Attack4_624
+  - first:
+      213: 1286863421981424326
+    second: Attack4_625
+  - first:
+      213: 7114196795150125584
+    second: Attack4_626
+  - first:
+      213: 7764658599582550184
+    second: Attack4_627
+  - first:
+      213: -7782616868961792715
+    second: Attack4_628
+  - first:
+      213: 956886349117831579
+    second: Attack4_629
+  - first:
+      213: 4640327500375064052
+    second: Attack4_630
+  - first:
+      213: 3223551576578996689
+    second: Attack4_631
+  - first:
+      213: 4018921500581640564
+    second: Attack4_632
+  - first:
+      213: -3482082013939720322
+    second: Attack4_633
+  - first:
+      213: 5339626313296455170
+    second: Attack4_634
+  - first:
+      213: 6805957727099177551
+    second: Attack4_635
+  - first:
+      213: -804785666585923999
+    second: Attack4_636
+  - first:
+      213: -6510697062093546166
+    second: Attack4_637
+  - first:
+      213: 607550365108915624
+    second: Attack4_638
+  - first:
+      213: -2838831370987545852
+    second: Attack4_639
+  - first:
+      213: -622838927628133478
+    second: Attack4_640
+  - first:
+      213: -8778040379391956528
+    second: Attack4_641
+  - first:
+      213: 3869849628909498508
+    second: Attack4_642
+  - first:
+      213: 8196253883314341847
+    second: Attack4_643
+  - first:
+      213: -2449815086616446427
+    second: Attack4_644
+  - first:
+      213: -6848255150514292680
+    second: Attack4_645
+  - first:
+      213: 3444672386195805639
+    second: Attack4_646
+  - first:
+      213: 3827161830961681787
+    second: Attack4_647
+  - first:
+      213: -7214798268914744402
+    second: Attack4_648
+  - first:
+      213: -1233884154271060312
+    second: Attack4_649
+  - first:
+      213: -6168503223834043573
+    second: Attack4_650
+  - first:
+      213: 2745742459476806200
+    second: Attack4_651
+  - first:
+      213: 1050261702067491040
+    second: Attack4_652
+  - first:
+      213: 8165790328360973675
+    second: Attack4_653
+  - first:
+      213: 2300957399392332562
+    second: Attack4_654
+  - first:
+      213: -4224961183940782677
+    second: Attack4_655
+  - first:
+      213: 5290628593760420433
+    second: Attack4_656
+  - first:
+      213: -5494202032047170441
+    second: Attack4_657
+  - first:
+      213: -1693048847389591853
+    second: Attack4_658
+  - first:
+      213: 752869064883817773
+    second: Attack4_659
+  - first:
+      213: 2022409711423956594
+    second: Attack4_660
+  - first:
+      213: 447617011667558249
+    second: Attack4_661
+  - first:
+      213: -1998055279387633073
+    second: Attack4_662
+  - first:
+      213: 9184411341766297207
+    second: Attack4_663
+  - first:
+      213: -8980874559349613922
+    second: Attack4_664
+  - first:
+      213: 6982538501404127026
+    second: Attack4_665
+  - first:
+      213: -6211205992044982640
+    second: Attack4_666
+  - first:
+      213: -3787624580121244847
+    second: Attack4_667
+  - first:
+      213: -5788511968795359307
+    second: Attack4_668
+  - first:
+      213: 5430975076768396494
+    second: Attack4_669
+  - first:
+      213: -629746416147154782
+    second: Attack4_670
+  - first:
+      213: -3263159406251651174
+    second: Attack4_671
+  - first:
+      213: 9174986472056078657
+    second: Attack4_672
+  - first:
+      213: -730092408661852131
+    second: Attack4_673
+  - first:
+      213: 8043858606237277220
+    second: Attack4_674
+  - first:
+      213: 5173025930472971803
+    second: Attack4_675
+  - first:
+      213: 5240886206226660679
+    second: Attack4_676
+  - first:
+      213: -1013694040833626518
+    second: Attack4_677
+  - first:
+      213: -4156520188733126235
+    second: Attack4_678
+  - first:
+      213: -6088831538243192073
+    second: Attack4_679
+  - first:
+      213: -8467348533125134522
+    second: Attack4_680
+  - first:
+      213: 5963343926668699613
+    second: Attack4_681
+  - first:
+      213: -5889392563362760352
+    second: Attack4_682
+  - first:
+      213: -6363326695325575908
+    second: Attack4_683
+  - first:
+      213: 19345711849142626
+    second: Attack4_684
+  - first:
+      213: -1444598814579279199
+    second: Attack4_685
+  - first:
+      213: -2901440416143163533
+    second: Attack4_686
+  - first:
+      213: 8335519857972614189
+    second: Attack4_687
+  - first:
+      213: -1199189012084380691
+    second: Attack4_688
+  - first:
+      213: 3410953993066475335
+    second: Attack4_689
+  - first:
+      213: -9036041848494710557
+    second: Attack4_690
+  - first:
+      213: 4456001410758363326
+    second: Attack4_691
+  - first:
+      213: 6715208849409388854
+    second: Attack4_692
+  - first:
+      213: -4645490108512963514
+    second: Attack4_693
+  - first:
+      213: -6521358909537531421
+    second: Attack4_694
+  - first:
+      213: 1291352314303771355
+    second: Attack4_695
+  - first:
+      213: 6452448361235493033
+    second: Attack4_696
+  - first:
+      213: 4832818628607513007
+    second: Attack4_697
+  - first:
+      213: 3512482496519863210
+    second: Attack4_698
+  - first:
+      213: 6087484953790566629
+    second: Attack4_699
+  - first:
+      213: 4733761336760430202
+    second: Attack4_700
+  - first:
+      213: -8398352461187315163
+    second: Attack4_701
+  - first:
+      213: -5867663751610124062
+    second: Attack4_702
+  - first:
+      213: 8885099426460373705
+    second: Attack4_703
+  - first:
+      213: 236877819485284862
+    second: Attack4_704
+  - first:
+      213: 4772928125407931209
+    second: Attack4_705
+  - first:
+      213: -57630246356639200
+    second: Attack4_706
+  - first:
+      213: -3363498781547521808
+    second: Attack4_707
+  - first:
+      213: -4773601864683670731
+    second: Attack4_708
+  - first:
+      213: 7070399617874892170
+    second: Attack4_709
+  - first:
+      213: -644969594535697888
+    second: Attack4_710
+  - first:
+      213: 2671509273788430384
+    second: Attack4_711
+  - first:
+      213: 2694757450602856126
+    second: Attack4_712
+  - first:
+      213: -6108516540695368110
+    second: Attack4_713
+  - first:
+      213: -1344940491776699042
+    second: Attack4_714
+  - first:
+      213: 1697413342372266358
+    second: Attack4_715
+  - first:
+      213: -7343228228886245030
+    second: Attack4_716
+  - first:
+      213: -8264430758027134120
+    second: Attack4_717
+  - first:
+      213: -1972367281789112483
+    second: Attack4_718
+  - first:
+      213: -2682497493963253006
+    second: Attack4_719
+  - first:
+      213: -4415653444227354942
+    second: Attack4_720
+  - first:
+      213: -3477496758353973947
+    second: Attack4_721
+  - first:
+      213: -3595409868326902865
+    second: Attack4_722
+  - first:
+      213: 5323144216801807828
+    second: Attack4_723
+  - first:
+      213: 4730035530890525339
+    second: Attack4_724
+  - first:
+      213: -5658454980908016763
+    second: Attack4_725
+  - first:
+      213: -310794634542418575
+    second: Attack4_726
+  - first:
+      213: -6515109883454187953
+    second: Attack4_727
+  - first:
+      213: 3343571707372765529
+    second: Attack4_728
+  - first:
+      213: -6037967762468580942
+    second: Attack4_729
+  - first:
+      213: -4802270907320898097
+    second: Attack4_730
+  - first:
+      213: -1608862881491815169
+    second: Attack4_731
+  - first:
+      213: -6453138856277167377
+    second: Attack4_732
+  - first:
+      213: 5206897015442841557
+    second: Attack4_733
+  - first:
+      213: -2930046964877589477
+    second: Attack4_734
+  - first:
+      213: -6960425624882360298
+    second: Attack4_735
+  - first:
+      213: -2315249799623492543
+    second: Attack4_736
+  - first:
+      213: -5851739161498115897
+    second: Attack4_737
+  - first:
+      213: -3647650238038801886
+    second: Attack4_738
+  - first:
+      213: -3813943819883887158
+    second: Attack4_739
+  - first:
+      213: -8610723596710195686
+    second: Attack4_740
+  - first:
+      213: -7304514982341998257
+    second: Attack4_741
+  - first:
+      213: 5531032808038130776
+    second: Attack4_742
+  - first:
+      213: -7036136067124048651
+    second: Attack4_743
+  - first:
+      213: 6687878580529813008
+    second: Attack4_744
+  - first:
+      213: 7570159379924459849
+    second: Attack4_745
+  - first:
+      213: -5302767116729366074
+    second: Attack4_746
+  - first:
+      213: -2646654480423489556
+    second: Attack4_747
+  - first:
+      213: 2065483939982982729
+    second: Attack4_748
+  - first:
+      213: -5484463844623101383
+    second: Attack4_749
+  - first:
+      213: 7408180210688005601
+    second: Attack4_750
+  - first:
+      213: 140746950816706179
+    second: Attack4_751
+  - first:
+      213: 8369212341095426408
+    second: Attack4_752
+  - first:
+      213: 6026752995849256395
+    second: Attack4_753
+  - first:
+      213: 4547568579747543740
+    second: Attack4_754
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f65b7b1000000000800000000000000
+      internalID: 461068025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e049779bffffffff0800000000000000
+      internalID: -1183345650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa6175000000000800000000000000
+      internalID: 1461103125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9369cffffffff0800000000000000
+      internalID: -916218004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc043a8fffffffff0800000000000000
+      internalID: -123518773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f7f31000000000800000000000000
+      internalID: 335017187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c882c272000000000800000000000000
+      internalID: 657205388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec25837effffffff0800000000000000
+      internalID: -415739186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3bd70dffffffff0800000000000000
+      internalID: -797068360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f2c90000000000800000000000000
+      internalID: 163770458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d4a3bbffffffff0800000000000000
+      internalID: -1153807094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d62f3f6000000000800000000000000
+      internalID: 1866409688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eec64fffffffff0800000000000000
+      internalID: -194187770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba34394000000000800000000000000
+      internalID: 1228159676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c174e58ffffffff0800000000000000
+      internalID: -2048626240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc5a91000000000800000000000000
+      internalID: 430297052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e4d585000000000800000000000000
+      internalID: 1482509971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2cba2affffffff0800000000000000
+      internalID: -1565801823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ce933affffffff0800000000000000
+      internalID: -1556485118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57b663000000000800000000000000
+      internalID: 913012222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4197dfffffffff0800000000000000
+      internalID: -42396473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c382394bffffffff0800000000000000
+      internalID: -1265424324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f581cffffffff0800000000000000
+      internalID: -1048185024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1982d5b6000000000800000000000000
+      internalID: 1801267345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cf4e17000000000800000000000000
+      internalID: 1910832145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28341daeffffffff0800000000000000
+      internalID: -355384446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c685a9ffffffff0800000000000000
+      internalID: -1705481123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb98fe4000000000800000000000000
+      internalID: 1324915707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a5d853000000000800000000000000
+      internalID: 898456146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef22d41000000000800000000000000
+      internalID: 349319148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0860e9ffffffff0800000000000000
+      internalID: -1643740955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7245cccffffffff0800000000000000
+      internalID: -859487621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba85db78ffffffff0800000000000000
+      internalID: -2017634133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b0b07dffffffff0800000000000000
+      internalID: -687142005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b976592000000000800000000000000
+      internalID: 693533107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a615f0d6000000000800000000000000
+      internalID: 1829720426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aad6e6000000000800000000000000
+      internalID: 1852680806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96545368ffffffff0800000000000000
+      internalID: -2043329175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3a5925000000000800000000000000
+      internalID: 1385538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403e8bfdffffffff0800000000000000
+      internalID: -541531388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b6d811000000000800000000000000
+      internalID: 294480765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bd2c8bffffffff0800000000000000
+      internalID: -1195189483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8942417cffffffff0800000000000000
+      internalID: -954981224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_43
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c3125000000000800000000000000
+      internalID: 1377027251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a031effffffff0800000000000000
+      internalID: -516904569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd298057000000000800000000000000
+      internalID: 1963496157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c10aeeffffffff0800000000000000
+      internalID: -291496828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cb5135000000000800000000000000
+      internalID: 1393933427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c741c064000000000800000000000000
+      internalID: 1175196796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ea44c0000000000800000000000000
+      internalID: 205827741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe9788ffffffff0800000000000000
+      internalID: -2005275733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b56ed9ffffffff0800000000000000
+      internalID: -1645847791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f93e4ccffffffff0800000000000000
+      internalID: -867288585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36d4153000000000800000000000000
+      internalID: 890558015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e557f513000000000800000000000000
+      internalID: 828339550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351999e4000000000800000000000000
+      internalID: 1318687059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_56
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8815ea5000000000800000000000000
+      internalID: 1524963467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157781dfffffffff0800000000000000
+      internalID: -48728239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_58
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd16e0cffffffff0800000000000000
+      internalID: -1058660903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_59
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ab011cffffffff0800000000000000
+      internalID: -1055868371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c28c496000000000800000000000000
+      internalID: 1766621893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48f9c6bffffffff0800000000000000
+      internalID: -1228277685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b2c07dffffffff0800000000000000
+      internalID: -687068382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1606046bffffffff0800000000000000
+      internalID: -1237295007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051ec2edffffffff0800000000000000
+      internalID: -567484080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430d3b4000000000800000000000000
+      internalID: 1262289740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6cc916000000000800000000000000
+      internalID: 1637664469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f881002000000000800000000000000
+      internalID: 536971512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02228e23000000000800000000000000
+      internalID: 854073888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30995e12000000000800000000000000
+      internalID: 568695043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac13d40affffffff0800000000000000
+      internalID: -1605553718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec09537000000000800000000000000
+      internalID: 1935215843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62864187000000000800000000000000
+      internalID: 2014603302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26057c23000000000800000000000000
+      internalID: 851923042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1651de24000000000800000000000000
+      internalID: 1122833761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e5749ffffffff0800000000000000
+      internalID: -1804213481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc75779ffffffff0800000000000000
+      internalID: -1753908038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fb044000000000800000000000000
+      internalID: 1141634587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963b28dffffffff0800000000000000
+      internalID: -668256615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce83f55fffffffff0800000000000000
+      internalID: -178308884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb85ceffffffff0800000000000000
+      internalID: -329729275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a632bc6cffffffff0800000000000000
+      internalID: -959765654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e811bffffffff0800000000000000
+      internalID: -1323767332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5102f1000000000800000000000000
+      internalID: 522196452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff08d83000000000800000000000000
+      internalID: 953683960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7306faffffffff0800000000000000
+      internalID: -1352648715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_86
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e700a1000000000800000000000000
+      internalID: 436240002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_87
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c80af52000000000800000000000000
+      internalID: 637143240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_88
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24422c5000000000800000000000000
+      internalID: 1545749551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e95e54000000000800000000000000
+      internalID: 1172676201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e148affffffff0800000000000000
+      internalID: -1472076303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326d862000000000800000000000000
+      internalID: 646799925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e456d5000000000800000000000000
+      internalID: 1566920221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccc9493000000000800000000000000
+      internalID: 961137864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c388b10000000000800000000000000
+      internalID: 28869574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627a661000000000800000000000000
+      internalID: 376074859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b12234000000000800000000000000
+      internalID: 1126308745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2469e3c8ffffffff0800000000000000
+      internalID: -1942055358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688742deffffffff0800000000000000
+      internalID: -316376954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941ac19fffffffff0800000000000000
+      internalID: -115564215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd73250000000000800000000000000
+      internalID: 86212023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175fd46bffffffff0800000000000000
+      internalID: -1236404879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1953f15000000000800000000000000
+      internalID: 1374902554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318e4c41000000000800000000000000
+      internalID: 348448787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_104
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89fa6d5000000000800000000000000
+      internalID: 1567291789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13927b2affffffff0800000000000000
+      internalID: -1565054671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7f713000000000800000000000000
+      internalID: 830439222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae92155000000000800000000000000
+      internalID: 1427283629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c933dffffffff0800000000000000
+      internalID: -751187479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68df80000000000800000000000000
+      internalID: 150832840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd753195000000000800000000000000
+      internalID: 1494439903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35d5e5000000000800000000000000
+      internalID: 1583174630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e438550cffffffff0800000000000000
+      internalID: -1068137650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52648504000000000800000000000000
+      internalID: 1079526949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03429d6bffffffff0800000000000000
+      internalID: -1227283408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da89400effffffff0800000000000000
+      internalID: -536569683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_116
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7a278cffffffff0800000000000000
+      internalID: -932009997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_117
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a1797bffffffff0800000000000000
+      internalID: -1214834176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_118
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ce4f7000000000800000000000000
+      internalID: 2135869294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7674a4effffffff0800000000000000
+      internalID: -458983811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b8cc815ac6222e4086fe030a9e9d5a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack4_0: 461068025
+      Attack4_1: -1183345650
+      Attack4_10: -1153807094
+      Attack4_100: 86212023
+      Attack4_101: -1236404879
+      Attack4_102: 1374902554
+      Attack4_103: 348448787
+      Attack4_104: 1567291789
+      Attack4_105: -1565054671
+      Attack4_106: 830439222
+      Attack4_107: 1427283629
+      Attack4_108: -751187479
+      Attack4_109: 150832840
+      Attack4_11: 1866409688
+      Attack4_110: 1494439903
+      Attack4_111: 1583174630
+      Attack4_112: -1068137650
+      Attack4_113: 1079526949
+      Attack4_114: -1227283408
+      Attack4_115: -536569683
+      Attack4_116: -932009997
+      Attack4_117: -1214834176
+      Attack4_118: 2135869294
+      Attack4_119: -458983811
+      Attack4_12: -194187770
+      Attack4_13: 1228159676
+      Attack4_14: -2048626240
+      Attack4_15: 430297052
+      Attack4_16: 1482509971
+      Attack4_17: -1565801823
+      Attack4_18: -1556485118
+      Attack4_19: 913012222
+      Attack4_2: 1461103125
+      Attack4_20: -42396473
+      Attack4_21: -1265424324
+      Attack4_22: -1048185024
+      Attack4_23: 1801267345
+      Attack4_24: 1910832145
+      Attack4_25: -355384446
+      Attack4_26: -1705481123
+      Attack4_27: 1324915707
+      Attack4_28: 898456146
+      Attack4_29: 349319148
+      Attack4_3: -916218004
+      Attack4_30: -1643740955
+      Attack4_31: -859487621
+      Attack4_32: -2017634133
+      Attack4_33: -687142005
+      Attack4_34: 693533107
+      Attack4_35: 1829720426
+      Attack4_36: 1852680806
+      Attack4_37: -2043329175
+      Attack4_38: 1385538535
+      Attack4_39: -541531388
+      Attack4_4: -123518773
+      Attack4_40: 294480765
+      Attack4_41: -1195189483
+      Attack4_42: -954981224
+      Attack4_43: 1377027251
+      Attack4_44: -516904569
+      Attack4_45: 1963496157
+      Attack4_46: -291496828
+      Attack4_47: 1393933427
+      Attack4_48: 1175196796
+      Attack4_49: 205827741
+      Attack4_5: 335017187
+      Attack4_50: -2005275733
+      Attack4_51: -1645847791
+      Attack4_52: -867288585
+      Attack4_53: 890558015
+      Attack4_54: 828339550
+      Attack4_55: 1318687059
+      Attack4_56: 1524963467
+      Attack4_57: -48728239
+      Attack4_58: -1058660903
+      Attack4_59: -1055868371
+      Attack4_6: 657205388
+      Attack4_60: 1766621893
+      Attack4_61: -1228277685
+      Attack4_62: -687068382
+      Attack4_63: -1237295007
+      Attack4_64: -567484080
+      Attack4_65: 1262289740
+      Attack4_66: 1637664469
+      Attack4_67: 536971512
+      Attack4_68: 854073888
+      Attack4_69: 568695043
+      Attack4_7: -415739186
+      Attack4_70: -1605553718
+      Attack4_71: 1935215843
+      Attack4_72: 2014603302
+      Attack4_73: 851923042
+      Attack4_74: 1122833761
+      Attack4_75: -1804213481
+      Attack4_76: -1753908038
+      Attack4_77: 1141634587
+      Attack4_78: -668256615
+      Attack4_79: -178308884
+      Attack4_8: -797068360
+      Attack4_80: -329729275
+      Attack4_81: -959765654
+      Attack4_82: -1323767332
+      Attack4_83: 522196452
+      Attack4_84: 953683960
+      Attack4_85: -1352648715
+      Attack4_86: 436240002
+      Attack4_87: 637143240
+      Attack4_88: 1545749551
+      Attack4_89: 1172676201
+      Attack4_9: 163770458
+      Attack4_90: -1472076303
+      Attack4_91: 646799925
+      Attack4_92: 1566920221
+      Attack4_93: 961137864
+      Attack4_94: 28869574
+      Attack4_95: 376074859
+      Attack4_96: 1126308745
+      Attack4_97: -1942055358
+      Attack4_98: -316376954
+      Attack4_99: -115564215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
