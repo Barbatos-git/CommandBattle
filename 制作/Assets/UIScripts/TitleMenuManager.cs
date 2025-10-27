@@ -49,6 +49,7 @@ public class TitleMenuManager : MonoBehaviour
         if (settingsMenuUI != null) settingsMenuUI.SetActive(false);
 
         SetSelectedButton(mainFirstSelectedButton.gameObject);
+        InputLock.IsLocked = false;
     }
 
     public void OpenSettingsMenu()
