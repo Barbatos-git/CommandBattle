@@ -1,9 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 using TMPro;
-using UnityEngine.SceneManagement;
-using UnityEngine.InputSystem;
-using System.Linq;
 
 public class CharacterSelectorByDevice : MonoBehaviour
 {
@@ -53,45 +50,9 @@ public class CharacterSelectorByDevice : MonoBehaviour
 
     private int randomIndex = 5;
 
-    private static bool _didInitThisScene = false;
-
     void Awake()
     {
-        //DontDestroyOnLoad(gameObject);
-    }
-
-    private System.Collections.IEnumerator Start()
-    {
-        _didInitThisScene = false;
-
-        // 重置状态
-        player1Selections.Clear();
-        player2Selections.Clear();
-        player1Locked = player2Locked = false;
-        deployedStarted = false;
-
-        // 等待 TurnManager
-        while (TurnManager.Instance == null)
-            yield return null;
-
-        // 从 PlayerPrefs 恢复设备
-        var p1Name = PlayerPrefs.GetString("P1Device", "");
-        var p2Name = PlayerPrefs.GetString("P2Device", "");
-        var p1Dev = InputSystem.devices.FirstOrDefault(d => d.displayName == p1Name);
-        var p2Dev = InputSystem.devices.FirstOrDefault(d => d.displayName == p2Name);
-
-        if (p1Dev != null) TurnManager.Instance.player1Input.device = p1Dev;
-        if (p2Dev != null) TurnManager.Instance.player2Input.device = p2Dev;
-
-        if (TurnManager.Instance.player1Input.device == null ||
-            TurnManager.Instance.player2Input.device == null)
-        {
-            Debug.LogWarning("[Selector] Missing devices, returning to binding scene.");
-            SceneManager.LoadScene("ControllerScene");
-            yield break;
-        }
-
-        _didInitThisScene = true;
+        DontDestroyOnLoad(gameObject);
     }
 
     void Update()
@@ -110,7 +71,7 @@ public class CharacterSelectorByDevice : MonoBehaviour
                 player1Locked = true;
                 UILockTextAnimator.AnimateLockIn(p1LockedText, 1);
                 Debug.Log("Player1 ロック！");
-            }  
+            }
         }
 
         if (player2Selections.Count == 3 && !player2Locked)
@@ -121,7 +82,7 @@ public class CharacterSelectorByDevice : MonoBehaviour
                 player2Locked = true;
                 UILockTextAnimator.AnimateLockIn(p2LockedText, 2);
                 Debug.Log("Player2 ロック！");
-            }  
+            }
         }
 
         // プレイヤー1のロック解除（キャンセル）
@@ -166,12 +127,12 @@ public class CharacterSelectorByDevice : MonoBehaviour
     }
 
     void HandlePlayerInput(
-        PlayerInputConfig input, 
-        ref int index, 
-        RectTransform[] options, 
-        RectTransform selector, 
-        ref float cooldown, 
-        List<int> selections, 
+        PlayerInputConfig input,
+        ref int index,
+        RectTransform[] options,
+        RectTransform selector,
+        ref float cooldown,
+        List<int> selections,
         int playerNum)
     {
         cooldown -= Time.deltaTime;
@@ -203,7 +164,7 @@ public class CharacterSelectorByDevice : MonoBehaviour
             //// 垂直方向に移動（列単位でジャンプ）
             //if (y > 0.5f) newIndex = Mathf.Max(index - columns, 0);
             //else if (y < -0.5f) newIndex = Mathf.Min(index + columns, options.Length - 1);
-            
+
             int rows = Mathf.CeilToInt((float)options.Length / columns);
             int row = index / columns;
             int col = index % columns;

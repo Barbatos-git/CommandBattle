@@ -188,6 +188,8 @@ public class PauseUIManager : MonoBehaviour
     public void ReturnToMainMenu()
     {
         Time.timeScale = 1f;
+        isPaused = false;
+        IsGamePaused = false;
 
         GameResetUtility.ResetGame();
 
