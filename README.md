@@ -2,3 +2,5 @@
 - 制作フォルダ：Unityコアファイル
 - 実行フォルダ：exe実行ファイル、readmeファイル（操作方法）と紹介動画が含まれます
 - ソースコードフォルダ：ソースコードファイルのまとめ
+- Releases: ゲーム紹介動画が含まれます
+  - URL: https://github.com/Barbatos-git/ShootingGame/releases/tag/v1.0
